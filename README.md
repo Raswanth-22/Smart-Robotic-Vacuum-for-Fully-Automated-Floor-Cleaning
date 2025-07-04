@@ -35,4 +35,4 @@
 ![cleaning with movebase](src/img/187662752.png  "cleaning with movebase")
 
 ### Demo Video
-![Smart vacuum demo](images/cleaning_bot.gif)
+![Smart vacuum demo](images/automated_bot.gif)
